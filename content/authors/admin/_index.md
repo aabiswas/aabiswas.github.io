@@ -1,0 +1,125 @@
+---
+# Display name
+title: Al Amin Biswas
+
+# # # Name pronunciation (optional)
+# name_pronunciation: Al Amin Biswas
+
+# Full name (for SEO)
+first_name: Al Amin
+last_name: Biswas
+
+# Status emoji
+status:
+  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Lecturer at Computer Science and Engineering
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj 
+    url: https://cse.bsmru.ac.bd/facultyprofile?id=1
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Machine Learning, Human Computer Interaction and Ubiquitous Computing.
+
+# Interests to show in About widget
+interests:
+  - Machine Learning
+  - Deep Learning Learning
+  - Predictive Modeling in Healthcare
+  - Computational health informatics
+  - Explainable Artificial Intelligence
+
+# Education to show in About widget
+education:
+  courses:
+    - course: M.S. in computer Science
+      institution: Jahangirnagar University, Dhaka, Bangladesh
+      year: 2019
+    - course: B.Sc. in Computer Science and Engineering
+      institution: Jahangirnagar University, Dhaka, Bangladesh
+      year: 2018
+
+# Skills
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=JiaLPHwAAAAJ&hl=en&oi=ao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/aabiswas
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aabiswas/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
+
+Al Amin Biswas received the Bachelor of Science and Master of Science degrees from the Department of Computer Science and Engineering, Jahangirnagar University, Dhaka, Bangladesh. He is currently a Lecturer with the Computer Science and Engineering Department, at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, he was a Lecturer (Senior Scale) with the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. His research interests include machine learning, deep learning, computer vision, and Explainable AI. He has significant number of research papers published in international conferences and journals with more than 650 citations (According to Google Scholar). He has served as the Session Chair for the International Conference on Computer Communication and Informatics (ICCCI 2021).
+
+He also served as the Co-Convener for the International Conference on Machine Intelligence and Data Science Application (MIDAS 2021). He reviewed research papers for many international IEEE, Springer, ACM conferences, Taylor & Francis Journal, Elsevier journals, and many others Scopus-Indexed journals. He received the Best Paper Award twice for his Outstanding Research Works from two Springer conferences
+{style="text-align: justify;"}
