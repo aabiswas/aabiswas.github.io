@@ -30,10 +30,9 @@ bio: My research interests include Machine Learning, Human Computer Interaction 
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Deep Learning Learning
-  - Predictive Modeling in Healthcare
-  - Computational health informatics
-  - Explainable Artificial Intelligence
+  - Deep Learning
+  - Health Informatics
+  - Human-Computer Interaction
 
 # Education to show in About widget
 education:
