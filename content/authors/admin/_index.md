@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in computer Science
+    - course: M.S. in Computer Science and Engineering
       institution: Jahangirnagar University, Dhaka, Bangladesh
       year: 2019
     - course: B.Sc. in Computer Science and Engineering
