@@ -118,6 +118,6 @@ social:
 highlight_name: true
 ---
 
-Al Amin Biswas received the Bachelor of Science and Master of Science degrees from the Department of Computer Science and Engineering, Jahangirnagar University, Dhaka, Bangladesh. He is currently a Lecturer with the Computer Science and Engineering Department, at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, he was a Lecturer (Senior Scale) with the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. He has significant number of research papers published in international conferences and journals with more than 650 citations (According to Google Scholar).
+I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, I was working as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 650 citations (According to Google Scholar).
 
 {style="text-align: justify;"}
