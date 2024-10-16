@@ -114,8 +114,8 @@ sections:
               <span style="font-size: 1.5em;">**Academic Contributions:**</span><br>
               
               <span style="font-size: 1.5em;">Coach:</span>
-              * <strong>Coach<strong>, International Collegiate Programming Contest Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the ICPC Asia Dhaka Regional 2024.
-              * <strong>Coach<strong>, National Collegiate Programming Contest (NCPC) Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the NCPC 2023.
+              * <strong>Coach</strong>, International Collegiate Programming Contest Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the ICPC Asia Dhaka Regional 2024.
+              * <strong>Coach</strong>, National Collegiate Programming Contest (NCPC) Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the NCPC 2023.
 
               <span style="font-size: 1.5em;">Session Chair</span>
               * <strong>ICCCI'21</strong>: Served as a session chair for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
