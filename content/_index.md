@@ -111,11 +111,10 @@ sections:
               * Received university yearly scholarship for outstanding results.
               * Received scholarship for achieving the top position in the undergraduate entrance exam.
               
-              <span style="font-size: 1.5em;">**Academic Contributions:**</span><br>
-              
-              <span style="font-size: 1.5em;">Coach:</span>
-              * <strong>Coach</strong>, International Collegiate Programming Contest Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the ICPC Asia Dhaka Regional 2024.
-              * <strong>Coach</strong>, National Collegiate Programming Contest (NCPC) Team, Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj – Mentored and trained the BSMRU team for the NCPC 2023.
+              <span style="font-size: 1.5em;">**Academic Contributions:**</span>
+              <span style="font-size: 1.5em;">Coach</span>
+              * <strong>ICPC'24</strong>: Coached BSMRU Team at the International Collegiate Programming Contest Asia Dhaka Regional 2024.
+              * <strong>NCPC'23</strong>: Coached BSMRU Team at the National Collegiate Programming Contest (NCPC), Bangladesh, 2023.
 
               <span style="font-size: 1.5em;">Session Chair</span>
               * <strong>ICCCI'21</strong>: Served as a session chair for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
@@ -149,6 +148,10 @@ sections:
               * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
               * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
               * <strong>MIDAS'21</strong>: Served as co-convener and reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
+
+              <span style="font-size: 1.5em;">Lead Speaker</span>
+              * <strong>Lead Speaker</strong>, Application of Artificial Intelligence and Technology in Education and Research,”December, 2023, Venue: BSMRU, Kishoreganj, Bangladesh.
+
           url: ''
       
     design:
