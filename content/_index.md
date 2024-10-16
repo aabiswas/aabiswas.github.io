@@ -128,6 +128,7 @@ sections:
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
               * <strong>Computers and Programs in Biomedicine</strong>: Served as a reviewer for Computers and Programs in Biomedicine, Elsevier journal.
+              * <strong>Computer Methods and Programs in Biomedicine Update</strong>: Served as a reviewer for Computer Methods and Programs in Biomedicine Update, Elsevier journal.
               * <strong>Computers and Electronics in Agriculture</strong>: Served as a reviewer for Computers and Electronics in Agriculture, Elsevier journal.
               * <strong>Computers in Biology and Medicine</strong>: Served as a reviewer for Computers in Biology and Medicine, Elsevier journal.
               * <strong>Array</strong>: Served as a reviewer for Array, Elsevier journal.
