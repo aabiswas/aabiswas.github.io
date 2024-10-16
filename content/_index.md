@@ -151,7 +151,7 @@ sections:
               * <strong>MIDAS'21</strong>: Served as co-convener and reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
 
               <span style="font-size: 1.5em;">Speaker</span>
-              * <strong>Lead Speaker</strong>, Application of Artificial Intelligence and Technology in Education and Research,” December, 2023, Venue: BSMRU, Kishoreganj, Bangladesh.
+              * <strong>Lead Speaker</strong>, "Application of Artificial Intelligence and Technology in Education and Research", BSMRU, Kishoreganj, Bangladesh, December, 2023.
 
           url: ''
       
