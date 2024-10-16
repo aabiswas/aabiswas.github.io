@@ -63,21 +63,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Lecturer
-          company: Bangabandhu Sheikh Mujibur Rahman University
+          company: Bangabandhu Sheikh Mujibur Rahman University (BSMRU)
           company_url: 'https://cse.bsmru.ac.bd/facultyprofile?id=1'
           company_logo: bsmru
           location: Kishoreganj, Bangladesh
           date_start: '2023-02-05'
           date_end: ''
         - title: Senior Lecturer
-          company: Daffodil International University
+          company: Daffodil International University (DIU)
           company_url: 'https://daffodilvarsity.edu.bd/'
           company_logo: diu
           location: Dhaka, Bangladesh
           date_start: '2022-01-01'
           date_end: '2023-01-31'
         - title: Lecturer
-          company: Daffodil International University
+          company: Daffodil International University (DIU)
           company_url: 'https://daffodilvarsity.edu.bd/'
           company_logo: diu
           location: Dhaka, Bangladesh
@@ -111,9 +111,9 @@ sections:
               * Received university yearly scholarship for outstanding results.
               * Received scholarship for achieving the top position in the undergraduate entrance exam.
               
-              <span style="font-size: 1.5em;">**Academic Contributions:**</span>
+              <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
               <span style="font-size: 1.5em;">Coach</span>
-              * <strong>ICPC'24</strong>: Coached BSMRU Team at the International Collegiate Programming Contest Asia Dhaka Regional 2024.
+              * <strong>ICPC'24</strong>: Coached BSMRU Team at the International Collegiate Programming Contest (ICPC) Asia Dhaka Regional 2024.
               * <strong>NCPC'23</strong>: Coached BSMRU Team at the National Collegiate Programming Contest (NCPC), Bangladesh, 2023.
 
               <span style="font-size: 1.5em;">Session Chair</span>
@@ -149,8 +149,8 @@ sections:
               * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
               * <strong>MIDAS'21</strong>: Served as co-convener and reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
 
-              <span style="font-size: 1.5em;">Lead Speaker</span>
-              * <strong>Lead Speaker</strong>, Application of Artificial Intelligence and Technology in Education and Research,”December, 2023, Venue: BSMRU, Kishoreganj, Bangladesh.
+              <span style="font-size: 1.5em;">Speaker</span>
+              * <strong>Lead Speaker</strong>, Application of Artificial Intelligence and Technology in Education and Research,” December, 2023, Venue: BSMRU, Kishoreganj, Bangladesh.
 
           url: ''
       
