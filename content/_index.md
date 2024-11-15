@@ -127,6 +127,7 @@ sections:
  
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
+              * <strong>International Journal of Human-Computer Studies</strong>: Served as a reviewer for International Journal of Human-Computer Studies, Elsevier journal.
               * <strong>Computers and Programs in Biomedicine</strong>: Served as a reviewer for Computers and Programs in Biomedicine, Elsevier journal.
               * <strong>Computer Methods and Programs in Biomedicine Update</strong>: Served as a reviewer for Computer Methods and Programs in Biomedicine Update, Elsevier journal.
               * <strong>Computers and Electronics in Agriculture</strong>: Served as a reviewer for Computers and Electronics in Agriculture, Elsevier journal.
@@ -148,7 +149,7 @@ sections:
               * <strong>CSAE'22</strong>: Served as a reviewer for the 6th International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
               * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
               * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
-              * <strong>MIDAS'21</strong>: Served as co-convener and reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
+              * <strong>MIDAS'21</strong>: Served as reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
 
               <span style="font-size: 1.5em;">Speaker</span>
               * <strong>Lead Speaker</strong>, "Application of Artificial Intelligence and Technology in Education and Research", BSMRU, Kishoreganj, Bangladesh, December, 2023.
