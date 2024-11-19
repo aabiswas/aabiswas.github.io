@@ -31,7 +31,9 @@ bio: My research interests include Machine Learning, Human Computer Interaction 
 interests:
   - Machine Learning
   - Deep Learning
+  - Natural Language Processing
   - AI in Healthcare
+  - Health Informatics
   - Human-Computer Interaction
 
 # Education to show in About widget
@@ -118,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, I worked as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 720 citations (According to Google Scholar).
+I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, I worked as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 740 citations (According to Google Scholar).  My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
 
 {style="text-align: justify;"}
