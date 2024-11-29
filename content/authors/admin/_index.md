@@ -25,7 +25,7 @@ organizations:
     url: https://cse.bsmru.ac.bd/viewprofile/2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Human Computer Interaction and Ubiquitous Computing.
+bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
 
 # Interests to show in About widget
 interests:
