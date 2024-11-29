@@ -64,7 +64,7 @@ sections:
       items:
         - title: Lecturer
           company: Bangabandhu Sheikh Mujibur Rahman University (BSMRU)
-          company_url: 'https://cse.bsmru.ac.bd/facultyprofile?id=1'
+          company_url: 'https://cse.bsmru.ac.bd/viewprofile/2'
           company_logo: bsmru
           location: Kishoreganj, Bangladesh
           date_start: '2023-02-05'
