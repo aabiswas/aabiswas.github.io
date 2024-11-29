@@ -22,7 +22,7 @@ role: Lecturer at Computer Science and Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj 
-    url: https://cse.bsmru.ac.bd/facultyprofile?id=1
+    url: https://cse.bsmru.ac.bd/viewprofile/2
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Human Computer Interaction and Ubiquitous Computing.
