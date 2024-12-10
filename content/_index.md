@@ -136,6 +136,7 @@ sections:
               * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>Healthcare Analytics</strong>: Served as a reviewer for Healthcare Analytics, Elsevier journal.
               * <strong>CRBS</strong>: Served as a reviewer for Current Research in Behavioral Sciences (CRBS), Elsevier journal.
+              * <strong>Machine Learning with Applications</strong>: Served as a reviewer for Machine Learning with Applications, Elsevier journal.
               * <strong>SSHO</strong>: Served as a reviewer for Social Sciences & Humanities Open (SSHO), Elsevier journal.
               * <strong>Cogent Engineering</strong>: Served as a reviewer for Cogent Engineering, Taylor & Francis journal.
               * <strong>CMBBE</strong>: Served as a reviewer for Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Taylor & Francis journal.
@@ -144,6 +145,7 @@ sections:
               * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
+              * <strong>HRI'25</strong>: Served as a reviewer for the 20th IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A).
               * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Noakhali Science and Technology University (NSTU), Springer, Bangladesh.
               * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
               * <strong>CSAE'22</strong>: Served as a reviewer for the 6th International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
