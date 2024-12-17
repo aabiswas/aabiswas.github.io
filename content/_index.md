@@ -146,7 +146,7 @@ sections:
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
               * <strong>HRI'25</strong>: Served as a reviewer for the 20th IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A).
-              * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Noakhali Science and Technology University (NSTU), Springer, Bangladesh.
+              * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
               * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
               * <strong>CSAE'22</strong>: Served as a reviewer for the 6th International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
               * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
