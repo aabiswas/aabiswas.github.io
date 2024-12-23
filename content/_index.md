@@ -145,7 +145,7 @@ sections:
               * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
-              * <strong>CHI'25</strong>: Served as a reviewer for the 42nd CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction (HCI)</strong>] 
+              * <strong>CHI'25</strong>: Served as a reviewer for the 42nd ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction (HCI)</strong>] 
               * <strong>HRI'25</strong>: Served as a reviewer for the 20th IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A). [ <strong>Flagship conference in the field of Human-Robot Interaction</strong>]
               * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
               * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
