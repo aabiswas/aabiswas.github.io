@@ -136,7 +136,7 @@ sections:
               * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>Healthcare Analytics</strong>: Served as a reviewer for Healthcare Analytics, Elsevier journal.
               * <strong>CRBS</strong>: Served as a reviewer for Current Research in Behavioral Sciences (CRBS), Elsevier journal.
-              * <strong>Machine Learning with Applications</strong>: Served as a reviewer for Applied Nursing Research, Elsevier journal.
+              * <strong>Applied Nursing Research</strong>: Served as a reviewer for Applied Nursing Research, Elsevier journal.
               * <strong>Machine Learning with Applications</strong>: Served as a reviewer for Machine Learning with Applications, Elsevier journal.
               * <strong>SSHO</strong>: Served as a reviewer for Social Sciences & Humanities Open (SSHO), Elsevier journal.
               * <strong>Cogent Engineering</strong>: Served as a reviewer for Cogent Engineering, Taylor & Francis journal.
