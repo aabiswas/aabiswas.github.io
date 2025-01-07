@@ -7,7 +7,7 @@ title: 'Data Privacy and Security Analysis for Mental Health Chatbot Application
 authors:
   - admin
   - Md. Sabab Zulfiker
-  - Md. Mahfujur Rahman Raju
+  - Md. Mahfujur Rahman
   - Md. Rafsan Jani
   - Md. Musfique Anwar 
 
