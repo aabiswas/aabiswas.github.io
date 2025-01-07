@@ -28,8 +28,8 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025), Melbourne, Australia. 
-publication_short: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025), Melbourne, Australia.
+publication: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025). 
+publication_short: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025).
 
 abstract: Due to the rapid advancement of technology, people nowadays consider chatbot-based mobile applications as a vital resource to get various mental and emotional support. ...Please click pdf option to read more.
 # Summary. An optional shortened abstract.
