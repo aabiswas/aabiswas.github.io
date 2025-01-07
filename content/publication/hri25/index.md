@@ -6,17 +6,17 @@ title: 'Data Privacy and Security Analysis for Mental Health Chatbot Application
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - M. S. Zulfiker
-  - M. M. Rahman
-  - M. R. Jani
-  - M. M. Anwar 
+  - Md. Sabab Zulfiker
+  - Md. Mahfujur Rahman Raju
+  - Md. Rafsan Jani
+  - Md. Musfique Anwar 
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-07-23T00:00:00Z'
+date: '2025-01-08T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,12 +28,12 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)
-publication_short: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)
+publication: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025), Melbourne, Australia. 
+publication_short: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025), Melbourne, Australia.
 
 abstract: Due to the rapid advancement of technology, people nowadays consider chatbot-based mobile applications as a vital resource to get various mental and emotional support. ...Please click pdf option to read more.
 # Summary. An optional shortened abstract.
-summary:  This paper analyzed 10 notable apps collected from the Google Play Store, examining their functionalities, data safety policies and required permissions to assess whether user data privacy is adequately protected. We also performed some security test and found several vulnerabilities and discrepancies
+summary:  This paper analyzed 10 notable apps collected from the Google Play Store, examining their functionalities, data safety policies and required permissions to assess whether user data privacy is adequately protected. We also performed some security test and found several vulnerabilities and discrepancies.
 
 tags:
   - Human-Computer Interaction
