@@ -61,7 +61,6 @@ jobs:
         uses: actions/download-artifact@v4  
         with:
           pattern: my-artifact-*
-          merge-multiple: true
           path: ./public
       - name: Deploy to GitHub Pages
         id: deployment
