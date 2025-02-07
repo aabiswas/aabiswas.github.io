@@ -1,6 +1,6 @@
 ---
-title: Paper Acceptance
-date: '2024-01-07'
+title: Recent Paper Acceptance
+date: '2025-01-07'
 # Is this an unpublished draft?
 draft: false
 
