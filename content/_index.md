@@ -146,12 +146,12 @@ sections:
               * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
-              * <strong>CHI'25</strong>: Served as a reviewer for the 42nd ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction</strong>] 
-              * <strong>HRI'25</strong>: Served as a reviewer for the 20th IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
+              * <strong>CHI'25</strong>: Served as a reviewer for the ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction</strong>] 
+              * <strong>HRI'25</strong>: Served as a reviewer for the IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
               * <strong>MobileHCI'25</strong>: Served as a reviewer for the ACM International Conference on Mobile Human-Computer Interaction (MobileHCI), Sharm El-Sheikh, Egypt (Rank: B).
-              * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
+              * <strong>MIET'24</strong>: Served as a reviewer for the International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
               * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
-              * <strong>CSAE'22</strong>: Served as a reviewer for the 6th International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
+              * <strong>CSAE'22</strong>: Served as a reviewer for the International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
               * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
               * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
               * <strong>MIDAS'21</strong>: Served as reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
