@@ -16,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-01-06T00:00:00Z'
+date: '2025-03-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2025-01-08T00:00:00Z'
+# publishDate: '2025-03-04T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -47,21 +47,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.5555/3721488.3721656'
 # url_code: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_dataset: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-27409-1_15'
-# url_video: 'https://youtube.com'
+# url_video: 'https://www.youtube.com/watch?v=h0-JBkYFY34'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Adopted methodology for conference paper review classification'
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Key focus areas and types of support provided by the MH chatbots'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
