@@ -54,7 +54,7 @@ url_pdf: 'https://dl.acm.org/doi/abs/10.5555/3721488.3721656'
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-27409-1_15'
-# url_video: 'https://www.youtube.com/watch?v=h0-JBkYFY34'
+url_video: 'https://www.youtube.com/watch?v=h0-JBkYFY34'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
