@@ -142,8 +142,8 @@ sections:
               * <strong>Cogent Engineering</strong>: Served as a reviewer for Cogent Engineering, Taylor & Francis journal.
               * <strong>CMBBE</strong>: Served as a reviewer for Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Taylor & Francis journal.
               * <strong> International Journal of Digital Earth</strong>: Served as a reviewer for  International Journal of Digital Earth, Taylor & Francis journal.
-              * <strong>BEEI</strong>: Served as a reviewer for Bulletin of Electrical Engineering and Informatics (BEEI), published by the Institute of Advanced Engineering and Science, Indonesia. 
-              * <strong>IJEECS</strong>: Served as a reviewer for Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), published by the Institute of Advanced Engineering and Science, Indonesia.  
+              * <strong>BEEI</strong>: Served as a reviewer for Bulletin of Electrical Engineering and Informatics (BEEI), Published by the Institute of Advanced Engineering and Science, Indonesia. 
+              * <strong>IJEECS</strong>: Served as a reviewer for Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), Published by the Institute of Advanced Engineering and Science, Indonesia.  
               * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
@@ -187,6 +187,8 @@ sections:
           tag: Deep Learning
         - name: Natural Language Processing
           tag: Natural Language Processing
+        - name: HCI
+          tag: HCI
         - name: Healthcare
           tag: Healthcare
     design:
