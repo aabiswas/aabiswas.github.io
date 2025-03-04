@@ -10,7 +10,7 @@ date: '2025-03-04T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Implementation procedures
+  caption: Key focus areas and types of support provided by the MH chatbots
   focal_point: Smart
 
 # links:
