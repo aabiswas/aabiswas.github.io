@@ -187,8 +187,8 @@ sections:
           tag: Deep Learning
         - name: Natural Language Processing
           tag: Natural Language Processing
-        - name: HCI
-          tag: HCI
+        - name: Human-Computer Interaction
+          tag: Human-Computer Interaction
         - name: Healthcare
           tag: Healthcare
     design:
