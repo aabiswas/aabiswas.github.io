@@ -65,7 +65,7 @@ sections:
         - title: Lecturer
           company: Kishoreganj University
           company_url: 'https://cse.bsmru.ac.bd/viewprofile/2'
-          company_logo: bsmru
+          company_logo: kiu
           location: Kishoreganj, Bangladesh
           date_start: '2023-02-05'
           date_end: ''
