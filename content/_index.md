@@ -138,6 +138,8 @@ sections:
               * <strong>CRBS</strong>: Served as a reviewer for Current Research in Behavioral Sciences (CRBS), Elsevier journal.
               * <strong>Applied Nursing Research</strong>: Served as a reviewer for Applied Nursing Research, Elsevier journal.
               * <strong>Machine Learning with Applications</strong>: Served as a reviewer for Machine Learning with Applications, Elsevier journal.
+              * <strong>Systems and Soft Computing</strong>: Served as a reviewer for Systems and Soft Computing, Elsevier journal.
+              * <strong>Medical Engineering and Physics</strong>: Served as a reviewer for Medical Engineering and Physics, Elsevier journal.
               * <strong>SSHO</strong>: Served as a reviewer for Social Sciences & Humanities Open (SSHO), Elsevier journal.
               * <strong>Cogent Engineering</strong>: Served as a reviewer for Cogent Engineering, Taylor & Francis journal.
               * <strong>CMBBE</strong>: Served as a reviewer for Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Taylor & Francis journal.
