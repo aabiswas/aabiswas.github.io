@@ -22,7 +22,7 @@ role: Lecturer at Computer Science and Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Kishoreganj University
-    url: https://cse.bsmru.ac.bd/viewprofile/2
+    url: https://cse.kiu.ac.bd/viewprofile/2
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Kishoreganj University (KiU). Before joining KiU, I worked as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 900 citations (According to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
+I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Kishoreganj University (KiU). Before joining KiU, I worked as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 930 citations (According to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
 
 {style="text-align: justify;"}
