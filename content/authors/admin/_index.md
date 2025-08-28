@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: First Year PhD Student at Computer Science and Engineering
+role: First Year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Computer Science, Iowa State University
+  - name: Department of Computer Science, Iowa State University
     url: https://www.cs.iastate.edu/people/al-amin-biswas
 
 # Short bio (displayed in user profile at end of posts)
