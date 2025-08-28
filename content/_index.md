@@ -75,7 +75,7 @@ sections:
           company_logo: kiu
           location: Kishoreganj, Bangladesh
           date_start: '2023-02-05'
-          date_end: ''
+          date_end: '2025-08-10'
         - title: Senior Lecturer
           company: Daffodil International University (DIU)
           company_url: 'https://daffodilvarsity.edu.bd/'
