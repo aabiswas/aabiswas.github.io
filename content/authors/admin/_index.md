@@ -39,6 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Iowa State University, Ames, USA
+      year: 2025-2030
     - course: M.S. in Computer Science and Engineering
       institution: Jahangirnagar University, Dhaka, Bangladesh
       year: 2019
