@@ -62,6 +62,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Teaching Assistant
+          company: Iowa State University
+          company_url: 'https://www.cs.iastate.edu/people/al-amin-biswas'
+          company_logo: isu
+          location: Ames, Iowa, USA
+          date_start: '2025-08-18'
+          date_end: ''
         - title: Lecturer
           company: Kishoreganj University
           company_url: 'https://cse.kiu.ac.bd/viewprofile/2'
