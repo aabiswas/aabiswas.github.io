@@ -25,7 +25,7 @@ organizations:
     url: https://www.cs.iastate.edu/people/al-amin-biswas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
+bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Privacy, and Security.
 
 # Interests to show in About widget
 interests:
@@ -33,8 +33,8 @@ interests:
   - Deep Learning
   - Natural Language Processing
   - AI in Healthcare
-  - Health Informatics
-  - Human-Computer Interaction
+  - Privacy
+  - Security
 
 # Education to show in About widget
 education:
@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. Recently, I have started my PhD in Computer Science at Iowa State University, Ames, Iowa, USA. Previously I worked as a Lecturer in the department of Computer Science and Engineering at Kishoreganj University (KiU), Bangladesh. Before joining KiU, I worked as a Lecturer (Senior Scale) in the Department of Computer Science and Engineering, Daffodil International University (DIU), Dhaka, Bangladesh. I published a significant number of research papers in international conferences and journals with more than 1100 citations (According to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
+I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. Recently, I have started my PhD in Computer Science at Iowa State University, Ames, Iowa, USA. Previously I worked as a Lecturer in the department of Computer Science and Engineering at Kishoreganj University (KiU), Bangladesh. Before joining KiU, I worked as a Lecturer (Senior Scale) in the Department of Computer Science and Engineering, Daffodil International University (DIU), Dhaka, Bangladesh. I published a significant number of research papers in international conferences and journals with more than 1310 citations (According to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Privacy, and Security.
 
 {style="text-align: justify;"}

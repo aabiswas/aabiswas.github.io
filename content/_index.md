@@ -69,13 +69,20 @@ sections:
           location: Ames, Iowa, USA
           date_start: '2025-08-18'
           date_end: ''
+        - title: Assistant Professor
+          company: Kishoreganj University
+          company_url: 'https://cse.kiu.ac.bd/viewprofile/2'
+          company_logo: kiu
+          location: Kishoreganj, Bangladesh
+          date_start: '2026-02-23'
+          date_end: ''
         - title: Lecturer
           company: Kishoreganj University
           company_url: 'https://cse.kiu.ac.bd/viewprofile/2'
           company_logo: kiu
           location: Kishoreganj, Bangladesh
           date_start: '2023-02-05'
-          date_end: '2025-08-10'
+          date_end: '2026-02-22'
         - title: Senior Lecturer
           company: Daffodil International University (DIU)
           company_url: 'https://daffodilvarsity.edu.bd/'
