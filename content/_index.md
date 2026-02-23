@@ -69,7 +69,7 @@ sections:
           location: Ames, Iowa, USA
           date_start: '2025-08-18'
           date_end: ''
-        - title: Assistant Professor
+        - title: Assistant Professor (On Study Leave)
           company: Kishoreganj University
           company_url: 'https://cse.kiu.ac.bd/viewprofile/2'
           company_logo: kiu
@@ -141,6 +141,8 @@ sections:
  
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
+              * <strong>JMIR</strong>: Served as a reviewer for JMIR.
+              * <strong>JMIR Medical Informatics</strong>: Served as a reviewer for JMIR Medical Informatics.
               * <strong>International Journal of Human-Computer Studies</strong>: Served as a reviewer for International Journal of Human-Computer Studies, Elsevier journal.
               * <strong>Computers and Programs in Biomedicine</strong>: Served as a reviewer for Computers and Programs in Biomedicine, Elsevier journal.
               * <strong>Computer Methods and Programs in Biomedicine Update</strong>: Served as a reviewer for Computer Methods and Programs in Biomedicine Update, Elsevier journal.
@@ -164,7 +166,7 @@ sections:
 
               <span style="font-size: 1.5em;">Conference Reviewer</span>
               * <strong>CHI'25</strong>: Served as a reviewer for the ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction</strong>] 
-              * <strong>HRI'25</strong>: Served as a reviewer for the IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
+              * <strong>HRI'25</strong>: Served as a reviewer for the IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A*). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
               * <strong>MobileHCI'25</strong>: Served as a reviewer for the ACM International Conference on Mobile Human-Computer Interaction (MobileHCI), Sharm El-Sheikh, Egypt (Rank: B).
               * <strong>MIET'24</strong>: Served as a reviewer for the International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
               * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
