@@ -25,7 +25,7 @@ organizations:
     url: https://www.cs.iastate.edu/people/al-amin-biswas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Privacy, and Security.
+bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, LLM, AI in Healthcare, Privacy, and Security.
 
 # Interests to show in About widget
 interests:
