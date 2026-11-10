@@ -139,6 +139,20 @@ sections:
               <span style="font-size: 1.5em;">Judge</span>
               * <strong>IC4IR'21</strong>: Served as a judge for the Mujib 100 Idea Contest 2021, organized by the University Grants Commission (UGC) of Bangladesh, as part of the 4th Industrial Revolution and Beyond (IC4IR 2021) conference.
  
+              <span style="font-size: 1.5em;">Conference Reviewer</span>
+              * <strong>WWW'27</strong>: Serving as a reviewer for the ACM Web Conference, Dublin, Ireland.
+              * <strong>ARR'26</strong>: Served as a reviewer for ACL Rolling Review (October 2026 cycle).
+              * <strong>CHI'25</strong>: Served as a reviewer for the ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan.
+              * <strong>HRI'25</strong>: Served as a reviewer for the IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia.
+              * <strong>MobileHCI'25</strong>: Served as a reviewer for the ACM International Conference on Mobile Human-Computer Interaction (MobileHCI), Sharm El-Sheikh, Egypt.
+              * <strong>ICEFronT'26</strong>: Served as a reviewer for the the International Conference on Engineering and Frontier Technologies, IEEE, Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh.
+              * <strong>MIET'24</strong>: Served as a reviewer for the International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
+              * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
+              * <strong>CSAE'22</strong>: Served as a reviewer for the International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
+              * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
+              * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
+              * <strong>MIDAS'21</strong>: Served as reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
+
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
               * <strong>JMIR</strong>: Served as a reviewer for JMIR.
@@ -164,18 +178,6 @@ sections:
               * <strong>BEEI</strong>: Served as a reviewer for Bulletin of Electrical Engineering and Informatics (BEEI), Published by the Institute of Advanced Engineering and Science, Indonesia. 
               * <strong>IJEECS</strong>: Served as a reviewer for Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), Published by the Institute of Advanced Engineering and Science, Indonesia.  
               * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
-
-              <span style="font-size: 1.5em;">Conference Reviewer</span>
-              * <strong>CHI'25</strong>: Served as a reviewer for the ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction</strong>] 
-              * <strong>HRI'25</strong>: Served as a reviewer for the IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A*). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
-              * <strong>MobileHCI'25</strong>: Served as a reviewer for the ACM International Conference on Mobile Human-Computer Interaction (MobileHCI), Sharm El-Sheikh, Egypt (Rank: B).
-              * <strong>ICEFronT'26</strong>: Served as a reviewer for the the International Conference on Engineering and Frontier Technologies, IEEE, Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh.
-              * <strong>MIET'24</strong>: Served as a reviewer for the International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
-              * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
-              * <strong>CSAE'22</strong>: Served as a reviewer for the International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
-              * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
-              * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
-              * <strong>MIDAS'21</strong>: Served as reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
 
               <span style="font-size: 1.5em;">Speaker</span>
               * <strong>Lead Speaker</strong>, "Application of Artificial Intelligence and Technology in Education and Research", BSMRU, Kishoreganj, Bangladesh, December, 2023.
