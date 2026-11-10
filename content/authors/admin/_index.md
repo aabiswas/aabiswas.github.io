@@ -29,17 +29,16 @@ bio: My research interests include Machine Learning, Deep Learning, Natural Lang
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Deep Learning
   - Natural Language Processing
-  - AI in Healthcare
+  - Large Language Models
+  - Mechanistic Interpretability
   - Privacy
   - Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science (Coursework completed)
       institution: Iowa State University, Ames, USA
       year: 2025 - Present
     - course: M.S. in Computer Science and Engineering
