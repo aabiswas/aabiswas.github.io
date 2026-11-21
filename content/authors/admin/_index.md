@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science (Coursework completed)
+    - course: PhD in Computer Science
       institution: Iowa State University, Ames, USA
       year: 2025 - Present
     - course: M.S. in Computer Science and Engineering
@@ -120,8 +120,6 @@ social:
 highlight_name: true
 ---
 
-I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. Recently, I started my PhD in Computer Science at Iowa State University, Ames, Iowa, USA. Previously, I worked as a Lecturer in the Department of Computer Science and Engineering at Kishoreganj University (KiU), Bangladesh. Before joining KiU, I worked as a Lecturer (Senior Scale) in the Department of Computer Science and Engineering at Daffodil International University (DIU), Dhaka, Bangladesh. I have published a significant number of research papers in international conferences and journals, with more than 1540 citations (according to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Privacy, and Security.
-
-Currently, I am serving as an Assistant Professor in the Department of Computer Science and Engineering at KiU and am on study leave to pursue my PhD.
+I am a PhD student in Computer Science at Iowa State University, USA, where my research focuses on large language models, reasoning, reliability, and code generation. I am also an Assistant Professor (currently on study leave) in the Department of Computer Science and Engineering at Kishoreganj University, Bangladesh. Previously, I taught at Daffodil International University. I earned my B.Sc. and M.S. degrees in Computer Science and Engineering from Jahangirnagar University. My broader research interests include mechanistic interpretability, model controllability, and trustworthy AI. My published research has received over 1,545 citations on Google Scholar.
 
 {style="text-align: justify;"}
